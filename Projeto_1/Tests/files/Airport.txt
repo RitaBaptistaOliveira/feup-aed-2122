@@ -1,0 +1,5 @@
+Porto 5 10
+Lisboa 4 9
+Paris 5 3
+Berlim 6 6
+Londres 8 2

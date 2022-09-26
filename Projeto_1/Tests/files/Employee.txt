@@ -1,0 +1,6 @@
+Manuel 1
+Joana 2
+Michel 3
+Anabela 30
+Pedro 42
+Mariana 56

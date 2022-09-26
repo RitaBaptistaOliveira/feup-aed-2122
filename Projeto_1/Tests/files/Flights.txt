@@ -1,0 +1,7 @@
+3 01/01/2021 60 Porto Lisboa 12:30
+5 03/04/2021 60 Lisboa Porto 13:45
+4 13/05/2022 120 Porto Berlim 01:20
+1 06/06/2022 150 Berlim Paris 06:30
+8 25/08/2022 75 Paris Londres 08:30
+5 26/11/2022 60 Porto Lisboa 22:45
+10 25/12/2022 70 Berlim Londres 08:45
