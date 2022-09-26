@@ -1,4 +1,4 @@
-# Projeto 1 - Gestão de informação em uma companhia aérea
+# Projeto 1 - Gestão de informação numa companhia aérea
 
 Realizado por:
   - [Rita Oliveira](https://github.com/RitaBaptistaOliveira)
