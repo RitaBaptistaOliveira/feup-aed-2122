@@ -1,2 +1,2 @@
-# feup-aed-2122
+# FEUP AED 21/22
 FEUP AED repository 21/22
